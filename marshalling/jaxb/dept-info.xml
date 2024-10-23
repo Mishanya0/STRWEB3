@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<organisation>
+    <orgName>IBM</orgName>
+    <orgNum>Org1</orgNum>
+    <location>USA</location>
+    <departments>
+        <department>
+            <deptNo>D01</deptNo>
+            <deptName>ACCOUNTING</deptName>
+            <location>NEW YORK</location>
+            <employees>
+                <employee>
+                    <empNo>E04</empNo>
+                    <empName>Sarah</empName>
+                    <managerNo>E02</managerNo>
+                </employee>
+                <employee>
+                    <empNo>E05</empNo>
+                    <empName>Nick</empName>
+                </employee>
+                <employee>
+                    <empNo>E06</empNo>
+                    <empName>Sarah</empName>
+                </employee>
+            </employees>
+        </department>
+        <department>
+            <deptNo>D02</deptNo>
+            <deptName>MANAGING</deptName>
+            <location>LOS ANGELES</location>
+            <employees>
+                <employee>
+                    <empNo>E04</empNo>
+                    <empName>Sarah</empName>
+                    <managerNo>E02</managerNo>
+                </employee>
+                <employee>
+                    <empNo>E05</empNo>
+                    <empName>Nick</empName>
+                </employee>
+                <employee>
+                    <empNo>E06</empNo>
+                    <empName>Sarah</empName>
+                </employee>
+            </employees>
+        </department>
+    </departments>
+</organisation>

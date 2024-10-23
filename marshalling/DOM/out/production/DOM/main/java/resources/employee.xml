@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Employees>
+            
+    
+    <Employee id="1">
+                        
+        
+        <name>Andrey</name>
+                        
+        
+        <gender>male</gender>
+                        
+        
+        <age>23</age>
+                        
+        
+        <role>director</role>
+                    
+    
+    </Employee>
+            
+    
+    <Employee id="2">
+                        
+        
+        <name>Evgeniy</name>
+                        
+        
+        <gender>male</gender>
+                        
+        
+        <age>12</age>
+                        
+        
+        <role>schoolboy</role>
+                    
+    
+    </Employee>
+        
+    
+    <Employee id="4">
+                
+        <name>Zhora</name>
+                
+        <gender>male</gender>
+                
+        <age>11</age>
+                
+        <role>schoolboy</role>
+            
+    </Employee>
+    
+</Employees>
